@@ -26,7 +26,6 @@
 - Transformer Block
 - KV Cache
 - Sampling（Greedy / Top-k / Top-p）
-- 常见训练与推理小模块
 
 ## 项目目标
 
